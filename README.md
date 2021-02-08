@@ -1,6 +1,8 @@
-# [Metric-Imperial Converter]
+# Metric-Imperial Converter
 
 Automatically converts metric or imperial measurements into either conversions. 
+
+Mainly for Node/Express server management practice. 
 
 Measurements can be either in lowercase or uppercase. The response is a JSON object showing the results of the conversion. 
 
